@@ -1,4 +1,4 @@
-# hello-world
+# hello-world || aprendendo o git status(stage or not stage)
 Exercício de Casa
 
 Esse exercício pediu para que fizéssemos alguns comando, foram eles:  
